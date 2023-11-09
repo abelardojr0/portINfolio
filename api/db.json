@@ -1,0 +1,86 @@
+{
+  "home": {
+    "nome": "Abelardo Júnior",
+    "profissao": "Desenvolvedor Front-End"
+  },
+  "sobre": {
+    "titulo": "Sobre",
+    "imagem": "https://i.imgur.com/6rDZ9x2.png",
+    "texto": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Esse atque distinctio inventore laudantium possimus nulla autem eius deserunt vel, eos, iure optio ex. Ipsum similique eligendi commodi corporis odio laborum. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Esse atque distinctio inventore laudantium possimus nulla autem eius deserunt vel, eos, iure optio ex. Ipsum similique eligendi commodi corporis odio laborum.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Esse atque distinctio inventore laudantium possimus nulla autem eius deserunt vel, eos, iure optio ex. Ipsum similique eligendi commodi corporis odio laborum. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Esse atque distinctio inventore laudantium possimus nulla autem eius deserunt vel, eos, iure optio ex. Ipsum similique eligendi commodi corporis odio laborum."
+  },
+  "cursos": {
+    "titulo": "Cursos",
+    "lista": [
+      {
+        "instituicao": "Infinity School",
+        "nome_curso": "Programação Fullstack",
+        "descricao": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem veritatis cumque fugiat obcaecati, aut molestiae nihil magni, cupiditate corrupti neque laboriosam reprehenderit officiis voluptates hic fugit veniam nesciunt, amet iste.Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem veritatis cumque fugiat obcaecati, aut molestiae nihil magni, cupiditate corrupti neque laboriosam reprehenderit officiis voluptates hic fugit veniam nesciunt, amet iste.Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem veritatis cumque fugiat obcaecati, aut molestiae nihil magni, cupiditate corrupti neque laboriosam reprehenderit officiis voluptates hic fugit veniam nesciunt, amet iste.",
+        "duracao": "14 meses"
+      },
+      {
+        "instituicao": "Infinity School",
+        "nome_curso": "Data Science",
+        "descricao": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem veritatis cumque fugiat obcaecati, aut molestiae nihil magni, cupiditate corrupti neque laboriosam reprehenderit officiis voluptates hic fugit veniam nesciunt, amet iste.Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem veritatis cumque fugiat obcaecati, aut molestiae nihil magni, cupiditate corrupti neque laboriosam reprehenderit officiis voluptates hic fugit veniam nesciunt, amet iste.Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem veritatis cumque fugiat obcaecati, aut molestiae nihil magni, cupiditate corrupti neque laboriosam reprehenderit officiis voluptates hic fugit veniam nesciunt, amet iste.",
+        "duracao": "10 meses"
+      },
+      {
+        "instituicao": "Curso 2",
+        "nome_curso": "Programação 2",
+        "descricao": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem veritatis cumque fugiat obcaecati, aut molestiae nihil magni, cupiditate corrupti neque laboriosam reprehenderit officiis voluptates hic fugit veniam nesciunt, amet iste.Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem veritatis cumque fugiat obcaecati, aut molestiae nihil magni, cupiditate corrupti neque laboriosam reprehenderit officiis voluptates hic fugit veniam nesciunt, amet iste.Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem veritatis cumque fugiat obcaecati, aut molestiae nihil magni, cupiditate corrupti neque laboriosam reprehenderit officiis voluptates hic fugit veniam nesciunt, amet iste.",
+        "duracao": "16 meses"
+      },
+      {
+        "instituicao": "Curso 3",
+        "nome_curso": "Programação 4",
+        "descricao": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem veritatis cumque fugiat obcaecati, aut molestiae nihil magni, cupiditate corrupti neque laboriosam reprehenderit officiis voluptates hic fugit veniam nesciunt, amet iste.Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem veritatis cumque fugiat obcaecati, aut molestiae nihil magni, cupiditate corrupti neque laboriosam reprehenderit officiis voluptates hic fugit veniam nesciunt, amet iste.Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem veritatis cumque fugiat obcaecati, aut molestiae nihil magni, cupiditate corrupti neque laboriosam reprehenderit officiis voluptates hic fugit veniam nesciunt, amet iste.",
+        "duracao": "17 meses"
+      },
+      {
+        "instituicao": "Curso 4",
+        "nome_curso": "Programação 4",
+        "descricao": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem veritatis cumque fugiat obcaecati, aut molestiae nihil magni, cupiditate corrupti neque laboriosam reprehenderit officiis voluptates hic fugit veniam nesciunt, amet iste.Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem veritatis cumque fugiat obcaecati, aut molestiae nihil magni, cupiditate corrupti neque laboriosam reprehenderit officiis voluptates hic fugit veniam nesciunt, amet iste.Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem veritatis cumque fugiat obcaecati, aut molestiae nihil magni, cupiditate corrupti neque laboriosam reprehenderit officiis voluptates hic fugit veniam nesciunt, amet iste.",
+        "duracao": "18 meses"
+      },
+      {
+        "instituicao": "Curso 5",
+        "nome_curso": "Programação 5",
+        "descricao": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem veritatis cumque fugiat obcaecati, aut molestiae nihil magni, cupiditate corrupti neque laboriosam reprehenderit officiis voluptates hic fugit veniam nesciunt, amet iste.Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem veritatis cumque fugiat obcaecati, aut molestiae nihil magni, cupiditate corrupti neque laboriosam reprehenderit officiis voluptates hic fugit veniam nesciunt, amet iste.Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem veritatis cumque fugiat obcaecati, aut molestiae nihil magni, cupiditate corrupti neque laboriosam reprehenderit officiis voluptates hic fugit veniam nesciunt, amet iste.",
+        "duracao": "20 meses"
+      }
+    ]
+  },
+  "skills": {
+    "titulo": "Minhas Habilidades",
+    "linguagens_programacao": [
+      "https://i.imgur.com/b6VbTdA.png",
+      "https://i.imgur.com/aYoq0Ra.png",
+      "https://i.imgur.com/5HVsNAa.png",
+      "https://i.imgur.com/ZnKtU7F.png",
+      "https://i.imgur.com/7OFYUY0.png",
+      "https://i.imgur.com/rSq2Ddv.png",
+      "https://i.imgur.com/ZOHnnbp.png",
+      "https://i.imgur.com/KV8k0WS.png"
+    ]
+  },
+  "projetos": {
+    "titulo": "Projetos",
+    "lista": [
+      {
+        "nome_projeto": "Rick and Morty API",
+        "imagem_projeto": "https://i.imgur.com/fiy1yAV.png"
+      },
+      {
+        "nome_projeto": "Rick and Morty API",
+        "imagem_projeto": "https://i.imgur.com/fiy1yAV.png"
+      },
+      {
+        "nome_projeto": "Rick and Morty API",
+        "imagem_projeto": "https://i.imgur.com/fiy1yAV.png"
+      },
+      {
+        "nome_projeto": "Rick and Morty API",
+        "imagem_projeto": "https://i.imgur.com/fiy1yAV.png"
+      }
+    ]
+  }
+}
